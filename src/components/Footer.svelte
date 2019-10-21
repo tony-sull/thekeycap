@@ -18,6 +18,14 @@
   #facebook .logo {
     @apply mr-4;
   }
+
+  footer a {
+    @apply py-3;
+  }
+
+  footer a:not(.inline) {
+    @apply block;
+  }
 </style>
 
 <footer
@@ -85,7 +93,7 @@
 
       <div class="font-thin">
         You can
-        <a class="underline" href="/contact-us">send us a note</a>
+        <a class="underline inline" href="/contact-us">send us a note</a>
         too.
       </div>
     </div>
