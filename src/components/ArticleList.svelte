@@ -64,7 +64,7 @@
         waiting for the 'click' event -->
     <li class:wide={posts.length % 2 === 1 && i === 0}>
       <article>
-        <a rel="prefetch" href="{url}/{post.slug}">
+        <a rel="prefetch" href="{url}/{post.slug}" alt={post.metadata.title}>
           <figure class="mb-3">
             <img
               alt={post.metadata.title}
@@ -77,7 +77,13 @@
 
         <div class="px-2 md:px-0">
           <h3 class="text-xl font-bold">
-            <a rel="prefetch" href="{url}/{post.slug}">{post.metadata.title}</a>
+            <a
+              rel="prefetch"
+              href="{url}/{post.slug}"
+              alt={post.metadata.title}
+            >
+              {post.metadata.title}
+            </a>
           </h3>
 
           <p class="text-sm font-bold text-brand mt-2 mb-4">
