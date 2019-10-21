@@ -64,7 +64,12 @@
         waiting for the 'click' event -->
     <li class:wide={posts.length % 2 === 1 && i === 0}>
       <article>
-        <a rel="prefetch" href="{url}/{post.slug}" alt={post.metadata.title}>
+        <a
+          rel="prefetch"
+          href="{url}/{post.slug}"
+          alt={post.metadata.title}
+          aria-label={post.metadata.title}
+        >
           <figure class="mb-3">
             <img
               alt={post.metadata.title}
