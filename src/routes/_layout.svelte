@@ -75,12 +75,11 @@
     Keycap is reader-supported. When you buy through links on our site, we may
     earn affiliate commission.
     <a
-      alt="Learn more"
+      alt="Learn more about our Affiliate Disclaimer"
       href="/affiliate-disclaimer"
       class="font-bold underline"
     >
       Learn more
-      <span class="hidden">about our Affiliate Disclaimer</span>
     </a>
   </div>
 
