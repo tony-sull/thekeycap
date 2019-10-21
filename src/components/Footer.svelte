@@ -19,12 +19,14 @@
     @apply mr-4;
   }
 
-  footer a {
-    @apply py-3;
-  }
+  @media screen and (max-width: theme(screens.sm)) {
+    footer a {
+      @apply py-3;
+    }
 
-  footer a:not(.inline) {
-    @apply block;
+    footer a:not(.inline) {
+      @apply block;
+    }
   }
 </style>
 
