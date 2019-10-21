@@ -5,10 +5,12 @@
       .then(({ learn, reviews }) => [
         {
           posts: reviews,
+          url: 'reviews',
         },
         {
           title: 'Recent Articles',
           posts: learn,
+          url: 'learn',
         },
       ])
       .then(categories => ({ categories }))
@@ -57,6 +59,10 @@
 
 {#each categories as category}
   <section>
-    <ArticleList title={category.title} posts={category.posts} />
+    <ArticleList
+      title={category.title}
+      posts={category.posts}
+      url={category.url}
+    />
   </section>
 {/each}
