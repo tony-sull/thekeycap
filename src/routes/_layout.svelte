@@ -78,6 +78,7 @@
       alt="Learn more about our Affiliate Disclaimer"
       href="/affiliate-disclaimer"
       class="font-bold underline"
+      aria-label="Learn more about our Affiliate Disclaimer"
     >
       Learn more
     </a>
