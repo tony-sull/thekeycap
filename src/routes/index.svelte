@@ -4,7 +4,6 @@
       .then(r => r.json())
       .then(({ learn, reviews }) => [
         {
-          title: 'Recent Reviews',
           posts: reviews,
         },
         {
@@ -31,8 +30,14 @@
 </style>
 
 <svelte:head>
-  <script type="application/ld+json">{}</script>
-  <script type="application/ld+json">{}</script>
+  <script type="application/ld+json">
+    {
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+    }
+  </script>
 </svelte:head>
 
 <SEO />

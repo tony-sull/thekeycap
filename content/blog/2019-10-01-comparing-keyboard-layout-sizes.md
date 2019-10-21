@@ -2,7 +2,7 @@
 title: Comparing Mechanical Keyboard Layout Sizes
 description: Shopping for mechanical keyboards can be exhausting. Nail down the keyboard layout size that best fits your needs to narrow down the search early.
 author: Tony Sullivan
-authorUrl: https://twitter.com/tony_sullivan
+authorUrl: https://twitter.com/thekeycap
 type: learn
 heroImage: multicolored-keyboard-macbook-pro@3x.jpg
 heroImageSrcset: multicolored-keyboard-macbook-pro@1x.jpg 368w, multicolored-keyboard-macbook-pro@2x.jpg 736w, multicolored-keyboard-macbook-pro@3x.jpg 1104w

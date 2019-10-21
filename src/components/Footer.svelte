@@ -24,7 +24,7 @@
   class="px-4 py-3 bg-shades-dark text-shades-light items-center text-sm"
   role="contentinfo"
 >
-  <div class="content max-w-4xl mx-auto p-8">
+  <div class="content max-w-4xl mx-auto p-2 xs:p-6 md:p-8">
     <ul class="font-semibold text-shades-light w-full">
       <li>
         <a href="/about" alt="About">About Keycap</a>
@@ -91,7 +91,7 @@
     </div>
   </div>
 
-  <div class="text-xs text-center mt-8">
+  <div class="text-xs text-center mt-2 xs:mt-6 md:mt-8">
     © 2019 Keycap. All Rights Reserved.
   </div>
 </footer>

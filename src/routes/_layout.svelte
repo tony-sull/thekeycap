@@ -67,7 +67,10 @@
 
 <Header />
 
-<main id="content" class="relative max-w-3xl mx-auto min-h-screen">
+<main
+  id="content"
+  class="relative max-w-3xl mx-auto min-h-screen pb-8 xs:pb-12 md:pb-16"
+>
   <div class="text-center text-brand text-xs p-6 mx-auto">
     Keycap is reader-supported. When you buy through links on our site, we may
     earn affiliate commission.

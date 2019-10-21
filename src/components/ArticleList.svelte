@@ -33,12 +33,14 @@
 <style>
   ul {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(23rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
     grid-gap: 2rem;
   }
 
-  li.wide {
-    grid-column: 1 / 3;
+  @media screen and (min-width: theme(screens.xs)) {
+    li.wide {
+      grid-column: 1 / 3;
+    }
   }
 </style>
 
@@ -48,9 +50,11 @@
 
 <SEO title={seoTitle} description={seoDescription} {url} article />
 
-<header class="mb-2 pb-2 border-b-2 border-accent-light">
-  <h1>{title}</h1>
-</header>
+{#if title}
+  <header class="mb-4 py-2 px-2 md:px-0 border-t-2 border-accent-light">
+    <h1>{title}</h1>
+  </header>
+{/if}
 
 <ul class="mb-4 list-inside">
   {#each posts as post, i}
@@ -71,15 +75,18 @@
           </figure>
         </a>
 
-        <h3 class="text-xl font-bold">
-          <a rel="prefetch" href="{url}/{post.slug}">{post.metadata.title}</a>
-        </h3>
+        <div class="px-2 md:px-0">
+          <h3 class="text-xl font-bold">
+            <a rel="prefetch" href="{url}/{post.slug}">{post.metadata.title}</a>
+          </h3>
 
-        <p class="text-sm font-bold text-accent-dark mt-2">
-          Published {formatPubdate(post)}
-        </p>
+          <p class="text-sm font-bold text-brand mt-2 mb-4">
+            Published {formatPubdate(post)}
+          </p>
 
-        {@html post.metadata.description}
+          <p class="text-xs font-bold m-0 p-0">by {post.metadata.author}</p>
+          {@html post.metadata.description}
+        </div>
       </article>
     </li>
   {/each}

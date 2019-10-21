@@ -2,7 +2,7 @@
 title: Best Mechanical Keyboards for Gaming
 description: Whether competing professionally in eSports competitions or playing Fortnite on the weekends, a mechanical keyboard can really step up your game.
 author: Tony Sullivan
-authorUrl: https://twitter.com/tony_sullivan
+authorUrl: https://twitter.com/thekeycap
 type: reviews
 heroImage: /Commodore-PET-Mini-and-keyboards@3x.jpg
 heroImageSrcset: /Commodore-PET-Mini-and-keyboards@1x.jpg 368w, /Commodore-PET-Mini-and-keyboards@2x.jpg 736w, /Commodore-PET-Mini-and-keyboards@3x.jpg 1104w

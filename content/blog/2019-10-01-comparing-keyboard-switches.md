@@ -2,7 +2,7 @@
 title: Comparing Mechanical Keyboard Switches
 description: Switch selection makes a huge difference in a mechanical keyboard. Start with our complete guide to mechanical keyboard switches to learn what's best for you.
 author: Tony Sullivan
-authorUrl: https://twitter.com/tony_sullivan
+authorUrl: https://twitter.com/thekeycap
 type: learn
 heroImage: /hyperx-mechanical-keyboard@3x.jpg
 heroImageSrcset: /hyperx-mechanical-keyboard@1x.jpg 368w, /hyperx-mechanical-keyboard@2x.jpg 736w, /hyperx-mechanical-keyboard@3x.jpg 1104w
