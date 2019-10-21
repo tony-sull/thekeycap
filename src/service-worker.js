@@ -1,6 +1,8 @@
 /* eslint-env worker, serviceworker */
 /* eslint-disable no-restricted-globals, no-unused-vars, import/no-unresolved */
-import { timestamp, files, shell, routes } from '@sapper/service-worker'
+import {
+  timestamp, files, shell, routes,
+} from '@sapper/service-worker'
 
 const ASSETS = `cache${timestamp}`
 
@@ -16,7 +18,7 @@ self.addEventListener('install', event => {
       .then(cache => cache.addAll(toCache))
       .then(() => {
         self.skipWaiting()
-      })
+      }),
   )
 })
 
@@ -30,12 +32,12 @@ self.addEventListener('activate', event => {
             ...acc,
             ...(key !== ASSETS ? [caches.delete(key)] : []),
           ],
-          []
-        )
+          [],
+        ),
       )
 
       self.clients.claim()
-    })
+    }),
   )
 })
 
@@ -51,10 +53,9 @@ self.addEventListener('fetch', event => {
 
   // ignore dev server requests
   if (
-    url.hostname === self.location.hostname &&
-    url.port !== self.location.port
-  )
-    return
+    url.hostname === self.location.hostname
+    && url.port !== self.location.port
+  ) return
 
   // always serve static files and bundler-generated assets from cache
   if (url.host === self.location.host && cached.has(url.pathname)) {
@@ -92,6 +93,6 @@ self.addEventListener('fetch', event => {
 
         throw err
       }
-    })
+    }),
   )
 })

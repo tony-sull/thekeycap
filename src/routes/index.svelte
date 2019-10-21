@@ -1,45 +1,57 @@
+<script context="module">
+  export function preload() {
+    return this.fetch('/recent.json')
+      .then(r => r.json())
+      .then(({ learn, reviews }) => [
+        {
+          title: 'Recent Reviews',
+          posts: reviews,
+        },
+        {
+          title: 'Recent Articles',
+          posts: learn,
+        },
+      ])
+      .then(categories => ({ categories }))
+  }
+</script>
+
 <script>
+  /* eslint-disable import/first */
   import SEO from '../components/SEO.svelte'
+  import ArticleList from '../components/ArticleList.svelte'
+
+  export let categories
 </script>
 
 <style>
-  h1,
-  figure,
-  p {
-    @apply mx-auto text-center;
-  }
-
-  img {
-    max-width: 400px;
+  section:not(:first-of-type) {
+    @apply mt-10;
   }
 </style>
 
 <svelte:head>
-  <script type="application/ld+json">
-    {
-    }
-  </script>
-  <script type="application/ld+json">
-    {
-    }
-  </script>
+  <script type="application/ld+json">{}</script>
+  <script type="application/ld+json">{}</script>
 </svelte:head>
 
 <SEO />
 
-<h1 class="mb-8 font-bold text-4xl xs:text-6xl uppercase">Great success!</h1>
-
-<figure class="mb-4">
+<!--<figure class="hero">
   <img
-    alt="Borat"
-    src="great-success.png"
-    class="inline-block w-full mb-4 align-baseline"
+    alt="Keyboard with Red Lights"
+    src="keyboard-with-red-lights@3x.jpg"
+    srcset="keyboard-with-red-lights@1x.jpg 368w, keyboard-with-red-lights@2x.jpg 736w, keyboard-with-red-lights@3x.jpg 1104w"
   />
-  <figcaption>HIGH FIVE!</figcaption>
-</figure>
+  <figcaption>
+      <p class="text-center text-xs mt-2 mb-6">
+          Photo by <a href="https://unsplash.com/@otenteko" alt="Anas Alshanti">Anas Alshanti</a>
+      </p>
+  </figcaption>
+</figure>-->
 
-<p class="my-4">
-  <strong class="font-bold">
-    Try editing this file (src/routes/index.svelte) to test live reloading.
-  </strong>
-</p>
+{#each categories as category}
+  <section>
+    <ArticleList title={category.title} posts={category.posts} />
+  </section>
+{/each}

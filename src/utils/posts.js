@@ -15,7 +15,9 @@ const parseFilename = file => {
   return { pubdate, slug }
 }
 
-function getPosts() {
+function getPosts(options = {}) {
+  const { count = 10 } = options
+
   return fs
     .readdirSync(CONTENT_DIR)
     .filter(isMarkdown)
@@ -28,7 +30,7 @@ function getPosts() {
       const { metadata } = frontmatter
       const content = frontmatter.content.replace(
         new RegExp(/\{\{slug\}\}/g),
-        `${metadata.type}/${slug}`
+        `${metadata.type}/${slug}`,
       )
 
       const date = new Date(`${pubdate} EDT`)
@@ -45,7 +47,7 @@ function getPosts() {
 
       const html = blogRenderer
         .render(
-          content.replace(/^\t+/gm, match => match.split('\t').join('  '))
+          content.replace(/^\t+/gm, match => match.split('\t').join('  ')),
         )
         .replace(new RegExp('<td><img', 'g'), '<td rowspan="5"><img')
 
@@ -56,8 +58,8 @@ function getPosts() {
       }
     })
     .sort((a, b) => (a.metadata.pubdate < b.metadata.pubdate ? 1 : -1))
+    .slice(0, count)
 }
 
-export const getAllPosts = () => getPosts()
-export const getPostsByType = type =>
-  getPosts().filter(p => p.metadata.type === type)
+export const getAllPosts = options => getPosts(options)
+export const getPostsByType = (type, opts) => getPosts(opts).filter(p => p.metadata.type === type)

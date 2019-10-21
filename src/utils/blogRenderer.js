@@ -4,14 +4,13 @@ import MarkdownItAttrs from 'markdown-it-attrs'
 
 const getAttrs = token => token.attrs || []
 
-const mapAttrs = token =>
-  getAttrs(token).reduce(
-    (acc, [attr, val]) => ({
-      ...acc,
-      [attr]: val,
-    }),
-    {}
-  )
+const mapAttrs = token => getAttrs(token).reduce(
+  (acc, [attr, val]) => ({
+    ...acc,
+    [attr]: val,
+  }),
+  {},
+)
 
 const tokenWithClasses = (...classes) => (tokens, idx) => {
   const token = tokens[idx]

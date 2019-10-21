@@ -4,7 +4,8 @@ description: Whether competing professionally in eSports competitions or playing
 author: Tony Sullivan
 authorUrl: https://twitter.com/tony_sullivan
 type: reviews
-heroImage: /Commodore-PET-Mini-and-keyboards.jpg
+heroImage: /Commodore-PET-Mini-and-keyboards@3x.jpg
+heroImageSrcset: /Commodore-PET-Mini-and-keyboards@1x.jpg 368w, /Commodore-PET-Mini-and-keyboards@2x.jpg 736w, /Commodore-PET-Mini-and-keyboards@3x.jpg 1104w
 heroCaption: This is a glamour shot of the Commodore PET Mini
 heroCredit: Photo by [Lorenzo Herrera](https://unsplash.com/@lorenzoherrera)
 ---

@@ -1,9 +1,13 @@
 ---
-title: Comparing Keyboard Switches
-description:
+title: Comparing Mechanical Keyboard Switches
+description: Switch selection makes a huge difference in a mechanical keyboard. Start with our complete guide to mechanical keyboard switches to learn what's best for you.
 author: Tony Sullivan
 authorUrl: https://twitter.com/tony_sullivan
 type: learn
+heroImage: /hyperx-mechanical-keyboard@3x.jpg
+heroImageSrcset: /hyperx-mechanical-keyboard@1x.jpg 368w, /hyperx-mechanical-keyboard@2x.jpg 736w, /hyperx-mechanical-keyboard@3x.jpg 1104w
+heroCaption: This is a glamour shot of the Commodore PET Mini
+heroCredit: Photo by [Shrimay Dash](https://unsplash.com/@shrimay)
 ---
 
 Keyboard switches are probably one of the most confusing decisions mechanical keyboard newcomers have to make. Switches are often by color, but there are as many as nine different colors. What do they all mean? When it comes to brands, Cherry seems to be the go-to but why are they better than Gateron, Kailh, or any of the other brands out there?

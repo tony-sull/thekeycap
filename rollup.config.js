@@ -18,12 +18,10 @@ const legacy = !!process.env.SAPPER_LEGACY_BUILD
 const preprocess = sveltePreprocess({ postcss: true, preserve: 'ld+json' })
 
 // eslint-disable-next-line no-shadow
-const onwarn = (warning, onwarn) =>
-  (warning.code === 'CIRCULAR_DEPENDENCY' &&
-    /[/\\]@sapper[/\\]/.test(warning.message)) ||
-  onwarn(warning)
-const dedupe = importee =>
-  importee === 'svelte' || importee.startsWith('svelte/')
+const onwarn = (warning, onwarn) => (warning.code === 'CIRCULAR_DEPENDENCY'
+    && /[/\\]@sapper[/\\]/.test(warning.message))
+  || onwarn(warning)
+const dedupe = importee => importee === 'svelte' || importee.startsWith('svelte/')
 
 export default {
   client: {
@@ -51,8 +49,8 @@ export default {
         compact: true,
       }),
 
-      legacy &&
-        babel({
+      legacy
+        && babel({
           extensions: ['.js', '.mjs', '.html', '.svelte'],
           runtimeHelpers: true,
           exclude: ['node_modules/@babel/**'],
@@ -75,8 +73,8 @@ export default {
           ],
         }),
 
-      !dev &&
-        terser({
+      !dev
+        && terser({
           module: true,
         }),
     ],
@@ -112,8 +110,8 @@ export default {
       }),
     ],
     external: Object.keys(pkg.dependencies).concat(
-      require('module').builtinModules ||
-        Object.keys(process.binding('natives'))
+      require('module').builtinModules
+        || Object.keys(process.binding('natives')),
     ),
 
     onwarn,

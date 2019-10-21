@@ -8,6 +8,7 @@
     "lint:prettier": "prettier --write --loglevel warn \"**/*.{js,json,css,svelte,html,md}\"",
     "lint:stylelint": "stylelint --fix \"src/**/*.{svelte,css}\"",
     "lint": "run-s lint:*",
+    "prelint": "npm run build",
     "dev:app": "sapper dev",
     "dev:tailwind": "postcss static/tailwind.css -o static/index.css -w",
     "dev": "run-p dev:*",
