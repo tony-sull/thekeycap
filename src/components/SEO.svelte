@@ -1,6 +1,7 @@
 <script>
   export let title = 'Mechanical Keyboard Reviews and Buying Advice | Keycap'
-  export let description = 'Keycap is a list of the best mechanical keyboards, accessories, and upgrades for your needs. Reviews are based on research and hands-on testing by career programmers, gamers, and tech aficionados.'
+  export let description =
+    'Keycap is a list of the best mechanical keyboards, accessories, and upgrades for your needs. Reviews are based on research and hands-on testing by career programmers, gamers, and tech aficionados.'
   export let image = '/social-share-630x420.png'
   export let url = ''
   export let article = false
@@ -28,6 +29,6 @@
   <meta property="og:url" content={fullUrl} />
   <meta property="fb:app_id" content="abc123" />
   <title>{title}</title>
-  <meta property="description" content={description} />
+  <meta name="description" content={description} />
   <link rel="canonical" href={fullUrl} />
 </svelte:head>
