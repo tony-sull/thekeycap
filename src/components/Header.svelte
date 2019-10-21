@@ -125,7 +125,6 @@
       aria-hidden="true"
       bind:this={menuToggle}
     />
-    <label for="menu-toggle" aria-hidden="true">Menu</label>
 
     <nav
       class="absolute left-0 right-0 bg-shades-dark z-50 text-shades-light
@@ -152,6 +151,7 @@
 
     <label class="menu-toggle p-2 cursor-pointer xs:hidden" for="menu-toggle">
       <div class="menu-icon" />
+      <span class="hidden" aria-hidden="true">Menu</span>
     </label>
   </div>
 </header>
