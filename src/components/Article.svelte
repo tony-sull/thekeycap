@@ -171,7 +171,7 @@
 
       <h1 class="font-bold mt-3">{post.metadata.title}</h1>
 
-      <h6 class="font-bold text-accent-dark mt-2">{pubdate}</h6>
+      <h6 class="font-bold text-brand mt-2">{pubdate}</h6>
     </div>
   </header>
 
