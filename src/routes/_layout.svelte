@@ -80,6 +80,7 @@
       class="font-bold underline"
     >
       Learn more
+      <span class="hidden">about our Affiliate Disclaimer</span>
     </a>
   </div>
 
