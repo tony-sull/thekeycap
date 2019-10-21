@@ -125,6 +125,7 @@
       aria-hidden="true"
       bind:this={menuToggle}
     />
+    <label for="menu-toggle" aria-hidden="true">Menu</label>
 
     <nav
       class="absolute left-0 right-0 bg-shades-dark z-50 text-shades-light

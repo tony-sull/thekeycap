@@ -9,7 +9,7 @@
   export let seoDescription
 
   const formatPubdate = post =>
-  fecha.format(new Date(post.metadata.pubdate), 'D MMMM, YYYY')
+    fecha.format(new Date(post.metadata.pubdate), 'D MMMM, YYYY')
 
   /* eslint-disable no-useless-escape */
   const jsonLD = `
@@ -19,12 +19,12 @@
         "@type": "ItemList",
         "numberOfItems": ${posts.length},
         "itemListElement": [${posts.map(
-      (post, i) => `{
+          (post, i) => `{
             "@type": "ListItem",
             "position": ${i + 1},
             "url": "https://thekeycap.com/${url}/${post.slug}"
-          }`,
-    )}]
+          }`
+        )}]
       }
     <\/script>
   `
@@ -52,7 +52,7 @@
 
 {#if title}
   <header class="mb-4 py-2 px-2 md:px-0 border-t-2 border-accent-light">
-    <h1>{title}</h1>
+    <h2>{title}</h2>
   </header>
 {/if}
 
