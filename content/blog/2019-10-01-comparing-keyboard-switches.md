@@ -12,7 +12,7 @@ heroCredit: Photo by [Shrimay Dash](https://unsplash.com/@shrimay)
 
 Keyboard switches are probably one of the most confusing decisions mechanical keyboard newcomers have to make. Switches are often by color, but there are as many as nine different colors. What do they all mean? When it comes to brands, Cherry seems to be the go-to but why are they better than Gateron, Kailh, or any of the other brands out there?
 
-Before we dive into all the details, let get a few basics out of the way.
+Before we dive into all the details, let get a few basics out of the way. Still not sure what size keyboard to get? [Our keyboard layout comparison](https://thekeycap.com/learn/comparing-keyboard-layout-sizes) has you covered.
 
 ## How Do Mechanical Keyboard Switches Work?
 
@@ -68,13 +68,13 @@ These switches aren't well suited for gamers unfortunately. These are the only c
 
 ### Alternative Colors
 
-![Cherry MX Color Chart](https://i.imgur.com/H7bLPaf.png 'Cherry MX Color Chart')
-
 Three distinct types of switch may not be enough to fit everyone's prefences. What if you want a linear switch because you hate the tactile feedback, but want a heavier feel in the keys?
 
 Don't worry, Cherry has you covered! Oh yeah, and the other manufacturers generally offer a similar spread of switches for your typing pleasure.
 
 Check out the comparison chart below for the full breakdown. Each category (linear, tactile, and clicky) have been expanded with choices of firmness. If you really want to have a mattress shopping experience and nail down your favorite, you can order a sampler pack for [Cherry MX](https://www.amazon.com/Mechanical-Gaming-Keyboard-Keyswitches-Tester/dp/B07TV7P3GP) or [Gateron and Kailh](https://www.amazon.com/Glorious-Switch-Tester-Mechanical-Keyboards-PC/dp/B078FMPZ8R).
+
+![Cherry MX Color Chart](https://i.imgur.com/H7bLPaf.png 'Cherry MX Color Chart')
 
 ## Conclusion
 

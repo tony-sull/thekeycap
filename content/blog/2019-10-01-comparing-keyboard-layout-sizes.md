@@ -10,7 +10,7 @@ heroCaption: Multicolored Keyboard Front of MacBook Pro
 heroCredit: Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur)
 ---
 
-Shopping for mechanical keyboards can be exhausting. Before diving into which switches you prefer, wired vs. wireless, or custom keycaps it can be helpful to nail down the layout size that best fits your needs.
+Before diving into which [switches you prefer](https://thekeycap.com/learn/comparing-keyboard-switches), wired vs. wireless, or custom keycaps it can be helpful to nail down the layout size that best fits your needs.
 
 ## 60%, 65%, 75%, 80%, 100% - Why are there so many sizes?
 
@@ -18,7 +18,7 @@ Lets stick to the basics. For our purposes the main sizes are 60%, 80% aka tenke
 
 ![Keyboard Layout Size Diagram with Form Factors](https://upload.wikimedia.org/wikipedia/commons/3/37/ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg 'Keyboard Layout Size Diagram with Form Factors')
 
-As you can see in the diagram above, 60% keyboards are the most compact size and consist only the essentials. With 80%, or tenkeyless, keyboards you also get arrow and function keys, including things like page up/down and print screen. 100%, or full-size, keyboards take it a step further with the inclusion of a full number pad.
+As you can see in the diagram above, 60% keyboards are the most compact size and consist of only the essentials. With 80%, or tenkeyless, keyboards you also get arrow and function keys, including things like page up/down and print screen. 100%, or full-size, keyboards take it a step further with the inclusion of a full number pad.
 
 The size you choice comes down to personal preference and how you use your keyboard, but we'll get into the pros and cons shortly.
 
@@ -26,7 +26,7 @@ If you come across something listed as a 65% keyboard, that is basically a 60% l
 
 90% layouts are also uncommon but you may come across them occasionally. Consider this to be a 60% plus the function keys and number pad, but no arrow keys.
 
-I'm sure there are more custom layouts that you could throw random percentages at, but stick to the 60%/80%/100% directions when deciding on your layout and you'll be on your way.
+I'm sure there are more custom layouts that you could throw random percentages at, but stick to the 60%, 80%, or 100% directions when deciding on your layout and you'll be on your way.
 
 ## 60%
 
@@ -80,7 +80,7 @@ It's worth noting that the full-size keyboard layout goes back much further than
 
 #### More Comfortable on Your Lap
 
-Tenkeyless keyboards will be much more comfortable to use on your lap compared to full-size keyboards. Heck, 80% layouts are a real goldilocks olution if you often find yourself resting a keyboard in your lap. The number pad makes a full-size layout too wide and off-centered for lap use, and a 60% layout is a bit too narrow to balance easily.
+Tenkeyless keyboards will be much more comfortable to use on your lap compared to full-size keyboards. Heck, 80% layouts are a real goldilocks solution if you often find yourself resting a keyboard in your lap. The number pad makes a full-size layout too wide and off-centered for lap use, and a 60% layout is a bit too narrow to balance easily.
 
 ### Cons of the Tenkeyless
 

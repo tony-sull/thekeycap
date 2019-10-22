@@ -79,6 +79,10 @@
     @apply mt-8 mb-4;
   }
 
+  .content :global(img) {
+    @apply my-6;
+  }
+
   .content :global(table) {
     @apply relative max-w-xl mx-auto my-10 bg-white px-6 py-3 border-4 border-accent-dark rounded-lg block;
   }
