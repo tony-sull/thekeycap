@@ -57,7 +57,7 @@
         </a>
       </li>
       <li>
-        <a href="/feed" title="RSS Feed" target="_blank">RSS Feed</a>
+        <a href="/rss.xml" title="RSS Feed" target="_blank">RSS Feed</a>
       </li>
     </ul>
 
