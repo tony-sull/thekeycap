@@ -12,7 +12,29 @@
   import SEO from '../../components/SEO.svelte'
 
   export let posts
+
+  /* eslint-disable no-useless-escape */
+  const jsonLD = `
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "ItemList",
+        "numberOfItems": ${posts.length},
+        "itemListElement": [${posts.map(
+          (post, i) => `{
+            "@type": "ListItem",
+            "position": ${i + 1},
+            "url": "https://thekeycap.com/learn/${post.slug}"
+          }`
+        )}]
+      }
+    <\/script>
+  `
 </script>
+
+<svelte:head>
+  {@html jsonLD}
+</svelte:head>
 
 <SEO
   bitle="Mechanical Keyboard Information: FAQs by Keycap"
