@@ -16,9 +16,21 @@
     grid-gap: 2rem;
   }
 
+  li::after {
+    height: 1px;
+    content: '';
+    @apply block bg-accent-light mx-2 mt-8;
+  }
+
   @media screen and (min-width: theme(screens.xs)) {
     li.wide {
       grid-column: 1 / 3;
+    }
+  }
+
+  @media screen and (min-width: theme(screens.md)) {
+    li::after {
+      @apply mx-0;
     }
   }
 </style>
