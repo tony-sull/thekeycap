@@ -1,12 +1,9 @@
 <script>
   import fecha from 'fecha'
-  import SEO from './SEO.svelte'
 
   export let posts
   export let title
   export let url
-  export let seoTitle
-  export let seoDescription
 
   const formatPubdate = post =>
     fecha.format(new Date(post.metadata.pubdate), 'D MMMM, YYYY')
@@ -47,8 +44,6 @@
 <svelte:head>
   {@html jsonLD}
 </svelte:head>
-
-<SEO title={seoTitle} description={seoDescription} {url} article />
 
 {#if title}
   <header class="mb-4 py-2 px-2 md:px-0 border-t-2 border-accent-light">

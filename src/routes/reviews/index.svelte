@@ -9,15 +9,17 @@
 <script>
   /* eslint-disable import/first */
   import ArticleList from '../../components/ArticleList.svelte'
+  import SEO from '../../components/SEO.svelte'
 
   export let posts
 </script>
 
-<ArticleList
-  {posts}
-  title="Recent Reviews"
-  seoTitle="Best Mechanical Keyboards and Accessories: Reviews by Keycap"
-  seoDescription="We've researched and tested the best mechanical keyboards and
+<SEO
+  title="Best Mechanical Keyboards and Accessories: Reviews by Keycap"
+  description="We've researched and tested the best mechanical keyboards and
   accessories for your specific needs."
   url="reviews"
+  article
 />
+
+<ArticleList {posts} title="Recent Reviews" url="reviews" />
