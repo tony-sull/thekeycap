@@ -21,12 +21,12 @@
         "@type": "ItemList",
         "numberOfItems": ${posts.length},
         "itemListElement": [${posts.map(
-          (post, i) => `{
+      (post, i) => `{
             "@type": "ListItem",
             "position": ${i + 1},
             "url": "https://thekeycap.com/learn/${post.slug}"
-          }`
-        )}]
+          }`,
+    )}]
       }
     <\/script>
   `

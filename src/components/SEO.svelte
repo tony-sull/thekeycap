@@ -1,7 +1,6 @@
 <script>
   export let title = 'Mechanical Keyboard Reviews and Buying Advice | Keycap'
-  export let description =
-    'Keycap is a list of the best mechanical keyboards, accessories, and upgrades for your needs. Reviews are based on research and hands-on testing by career programmers, gamers, and tech aficionados.'
+  export let description = 'Keycap is a list of the best mechanical keyboards, accessories, and upgrades for your needs. Reviews are based on research and hands-on testing by career programmers, gamers, and tech aficionados.'
   export let image = 'https://thekeycap.com/social-share-630x420.png'
   export let url = ''
   export let article = false
