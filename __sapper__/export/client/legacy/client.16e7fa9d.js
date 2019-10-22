@@ -284,7 +284,7 @@ function create_fragment(ctx) {
     },
     h: function hydrate() {
       attr(img, "class", "h-6 my-1");
-      attr(img, "src", "/logo-horizontal.svg");
+      attr(img, "src", "logo-horizontal.svg");
       attr(img, "alt", "Keycap");
       add_location(img, file, 139, 6, 6533);
       attr(a0, "href", "https://thekeycap.com");
@@ -295,47 +295,47 @@ function create_fragment(ctx) {
       attr(input, "id", "menu-toggle");
       attr(input, "class", "hidden");
       attr(input, "aria-hidden", "true");
-      add_location(input, file, 142, 4, 6612);
-      attr(a1, "href", "/");
+      add_location(input, file, 142, 4, 6611);
+      attr(a1, "href", ".");
       attr(a1, "alt", "Home");
       attr(a1, "rel", "prefetch");
       attr(a1, "class", "svelte-tu2x05");
-      add_location(a1, file, 159, 10, 7013);
+      add_location(a1, file, 159, 10, 7012);
       attr(li0, "class", "svelte-tu2x05");
-      add_location(li0, file, 158, 8, 6998);
-      attr(a2, "href", "/reviews");
+      add_location(li0, file, 158, 8, 6997);
+      attr(a2, "href", "reviews");
       attr(a2, "alt", "Reviews");
       attr(a2, "rel", "prefetch");
       attr(a2, "class", "svelte-tu2x05");
-      add_location(a2, file, 162, 10, 7097);
+      add_location(a2, file, 162, 10, 7096);
       attr(li1, "class", "svelte-tu2x05");
-      add_location(li1, file, 161, 8, 7082);
-      attr(a3, "href", "/learn");
+      add_location(li1, file, 161, 8, 7081);
+      attr(a3, "href", "learn");
       attr(a3, "alt", "Learn");
       attr(a3, "rel", "prefetch");
       attr(a3, "class", "svelte-tu2x05");
-      add_location(a3, file, 165, 10, 7194);
+      add_location(a3, file, 165, 10, 7192);
       attr(li2, "class", "svelte-tu2x05");
-      add_location(li2, file, 164, 8, 7179);
-      attr(a4, "href", "/about");
+      add_location(li2, file, 164, 8, 7177);
+      attr(a4, "href", "about");
       attr(a4, "alt", "About");
       attr(a4, "rel", "prefetch");
       attr(a4, "class", "svelte-tu2x05");
-      add_location(a4, file, 168, 10, 7285);
+      add_location(a4, file, 168, 10, 7282);
       attr(li3, "class", "svelte-tu2x05");
-      add_location(li3, file, 167, 8, 7270);
+      add_location(li3, file, 167, 8, 7267);
       attr(ul, "class", "text-lg text-center capitalize font-light xs:flex xs:items-center\n        xs:ml-2");
-      add_location(ul, file, 154, 6, 6880);
+      add_location(ul, file, 154, 6, 6879);
       attr(nav, "class", "absolute left-0 right-0 bg-shades-dark z-50 text-shades-light\n      xs:relative xs:bg-transparent svelte-tu2x05");
-      add_location(nav, file, 150, 4, 6751);
+      add_location(nav, file, 150, 4, 6750);
       attr(div0, "class", "menu-icon svelte-tu2x05");
-      add_location(div0, file, 174, 6, 7462);
+      add_location(div0, file, 174, 6, 7458);
       attr(span, "class", "hidden");
       attr(span, "aria-hidden", "true");
-      add_location(span, file, 175, 6, 7494);
+      add_location(span, file, 175, 6, 7490);
       attr(label, "class", "menu-toggle p-2 cursor-pointer xs:hidden svelte-tu2x05");
       attr(label, "for", "menu-toggle");
-      add_location(label, file, 173, 4, 7381);
+      add_location(label, file, 173, 4, 7377);
       attr(div1, "class", "content max-w-2x flex items-center justify-between xs:justify-start");
       add_location(div1, file, 135, 2, 6366);
       attr(header, "class", "bg-brand px-6 py-4 relative");
@@ -680,78 +680,78 @@ function create_fragment$1(ctx) {
       this.h();
     },
     h: function hydrate() {
-      attr(a0, "href", "/about");
+      attr(a0, "href", "about");
       attr(a0, "alt", "About");
       attr(a0, "class", "svelte-17dqaf1");
       add_location(a0, file$1, 43, 8, 2005);
       add_location(li0, file$1, 42, 6, 1992);
-      attr(a1, "href", "/contact-us");
+      attr(a1, "href", "contact-us");
       attr(a1, "alt", "Contact Us");
       attr(a1, "class", "svelte-17dqaf1");
-      add_location(a1, file$1, 46, 8, 2082);
-      add_location(li1, file$1, 45, 6, 2069);
+      add_location(a1, file$1, 46, 8, 2081);
+      add_location(li1, file$1, 45, 6, 2068);
       attr(ul0, "class", "font-semibold text-shades-light w-full");
       add_location(ul0, file$1, 41, 4, 1934);
-      attr(a2, "href", "/privacy-policy");
+      attr(a2, "href", "privacy-policy");
       attr(a2, "alt", "Privacy Policy");
       attr(a2, "class", "svelte-17dqaf1");
-      add_location(a2, file$1, 52, 8, 2231);
-      add_location(li2, file$1, 51, 6, 2218);
-      attr(a3, "href", "/terms-of-use");
+      add_location(a2, file$1, 52, 8, 2229);
+      add_location(li2, file$1, 51, 6, 2216);
+      attr(a3, "href", "terms-of-use");
       attr(a3, "alt", "Terms of Use");
       attr(a3, "class", "svelte-17dqaf1");
-      add_location(a3, file$1, 55, 8, 2328);
-      add_location(li3, file$1, 54, 6, 2315);
-      attr(a4, "href", "/partners");
+      add_location(a3, file$1, 55, 8, 2325);
+      add_location(li3, file$1, 54, 6, 2312);
+      attr(a4, "href", "partners");
       attr(a4, "alt", "Partnerships and Advertising");
       attr(a4, "class", "svelte-17dqaf1");
-      add_location(a4, file$1, 58, 8, 2419);
-      add_location(li4, file$1, 57, 6, 2406);
-      attr(a5, "href", "/rss.xml");
+      add_location(a4, file$1, 58, 8, 2415);
+      add_location(li4, file$1, 57, 6, 2402);
+      attr(a5, "href", "rss.xml");
       attr(a5, "title", "RSS Feed");
       attr(a5, "target", "_blank");
       attr(a5, "class", "svelte-17dqaf1");
-      add_location(a5, file$1, 63, 8, 2558);
-      add_location(li5, file$1, 62, 6, 2545);
+      add_location(a5, file$1, 63, 8, 2553);
+      add_location(li5, file$1, 62, 6, 2540);
       attr(ul1, "class", "text-shades-light font-light w-full");
-      add_location(ul1, file$1, 50, 4, 2163);
-      add_location(strong, file$1, 68, 6, 2677);
+      add_location(ul1, file$1, 50, 4, 2161);
+      add_location(strong, file$1, 68, 6, 2671);
       attr(img0, "class", "logo svelte-17dqaf1");
-      attr(img0, "src", "/facebook-circle.svg");
+      attr(img0, "src", "facebook-circle.svg");
       attr(img0, "alt", "Keycap's Facebook");
-      add_location(img0, file$1, 77, 12, 2930);
+      add_location(img0, file$1, 77, 12, 2924);
       attr(a6, "id", "facebook");
       attr(a6, "href", "https://www.facebook.com/thekeycap");
       attr(a6, "title", "Keycap's Facebook");
       attr(a6, "class", "svelte-17dqaf1");
-      add_location(a6, file$1, 72, 10, 2785);
+      add_location(a6, file$1, 72, 10, 2779);
       attr(li6, "class", "svelte-17dqaf1");
-      add_location(li6, file$1, 71, 8, 2770);
+      add_location(li6, file$1, 71, 8, 2764);
       attr(img1, "class", "logo svelte-17dqaf1");
-      attr(img1, "src", "/twitter-circle.svg");
+      attr(img1, "src", "twitter-circle.svg");
       attr(img1, "alt", "Keycap's Twitter");
-      add_location(img1, file$1, 90, 12, 3250);
+      add_location(img1, file$1, 90, 12, 3243);
       attr(a7, "id", "twitter");
       attr(a7, "href", "https://www.twitter.com/thekeycap");
       attr(a7, "title", "Keycap's Twitter");
       attr(a7, "class", "svelte-17dqaf1");
-      add_location(a7, file$1, 85, 10, 3108);
+      add_location(a7, file$1, 85, 10, 3101);
       attr(li7, "class", "svelte-17dqaf1");
-      add_location(li7, file$1, 84, 8, 3093);
+      add_location(li7, file$1, 84, 8, 3086);
       attr(ul2, "id", "social");
       attr(ul2, "class", "flex flex-row my-3 svelte-17dqaf1");
-      add_location(ul2, file$1, 70, 6, 2718);
+      add_location(ul2, file$1, 70, 6, 2712);
       attr(a8, "class", "underline inline svelte-17dqaf1");
-      attr(a8, "href", "/contact-us");
-      add_location(a8, file$1, 101, 8, 3470);
+      attr(a8, "href", "contact-us");
+      add_location(a8, file$1, 97, 8, 3408);
       attr(div0, "class", "font-thin");
-      add_location(div0, file$1, 99, 6, 3422);
+      add_location(div0, file$1, 95, 6, 3360);
       attr(div1, "class", "w-full");
-      add_location(div1, file$1, 67, 4, 2650);
+      add_location(div1, file$1, 67, 4, 2644);
       attr(div2, "class", "content max-w-4xl mx-auto p-2 xs:p-6 md:p-8 svelte-17dqaf1");
       add_location(div2, file$1, 40, 2, 1872);
       attr(div3, "class", "text-xs text-center mt-2 xs:mt-6 md:mt-8");
-      add_location(div3, file$1, 107, 2, 3585);
+      add_location(div3, file$1, 103, 2, 3522);
       attr(footer, "class", "px-4 py-3 bg-shades-dark text-shades-light items-center text-sm svelte-17dqaf1");
       attr(footer, "role", "contentinfo");
       add_location(footer, file$1, 36, 0, 1765);
@@ -895,7 +895,7 @@ function create_fragment$2(ctx) {
     },
     h: function hydrate() {
       attr(a, "alt", "Learn more about our Affiliate Disclaimer");
-      attr(a, "href", "/affiliate-disclaimer");
+      attr(a, "href", "affiliate-disclaimer");
       attr(a, "class", "font-bold underline");
       attr(a, "aria-label", "Learn more about our Affiliate Disclaimer");
       add_location(a, file$2, 77, 4, 2852);
@@ -1626,9 +1626,9 @@ var components = [{
   css: ["legacy/affiliate-disclaimer.81ee2c66.css"]
 }, {
   js: function js() {
-    return import('./privacy-policy.358e9d66.js');
+    return import('./privacy-policy.dea4f6be.js');
   },
-  css: ["legacy/privacy-policy.358e9d66.css"]
+  css: ["legacy/privacy-policy.dea4f6be.css"]
 }, {
   js: function js() {
     return import('./data-requests.38eeb1f6.js');
@@ -1636,9 +1636,9 @@ var components = [{
   css: []
 }, {
   js: function js() {
-    return import('./terms-of-use.97de883b.js');
+    return import('./terms-of-use.f8317d59.js');
   },
-  css: ["legacy/terms-of-use.97de883b.css"]
+  css: ["legacy/terms-of-use.f8317d59.css"]
 }, {
   js: function js() {
     return import('./contact-us.199cd28d.js');
@@ -1656,14 +1656,14 @@ var components = [{
   css: ["legacy/ArticleList.ad1023eb.css"]
 }, {
   js: function js() {
-    return import('./[slug].fccfb364.js');
+    return import('./[slug].2d576627.js');
   },
-  css: ["legacy/Article.59677227.css"]
+  css: ["legacy/Article.2c3f9774.css"]
 }, {
   js: function js() {
-    return import('./about.24fbf68e.js');
+    return import('./about.c61c6de2.js');
   },
-  css: ["legacy/about.24fbf68e.css"]
+  css: ["legacy/about.c61c6de2.css"]
 }, {
   js: function js() {
     return import('./index.6f0c04fd.js');
@@ -1671,9 +1671,9 @@ var components = [{
   css: ["legacy/ArticleList.ad1023eb.css"]
 }, {
   js: function js() {
-    return import('./[slug].eba9d563.js');
+    return import('./[slug].d598d35e.js');
   },
-  css: ["legacy/Article.59677227.css"]
+  css: ["legacy/Article.2c3f9774.css"]
 }];
 var routes = function (d) {
   return [{

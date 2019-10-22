@@ -105,7 +105,7 @@ function create_fragment(ctx) {
     h: function hydrate() {
       attr(p, "class", "hidden");
       add_location(p, file, 19, 2, 701);
-      attr(img0, "src", "/twitter.svg");
+      attr(img0, "src", "twitter.svg");
       attr(img0, "alt", "Share to Twitter");
       attr(img0, "class", "svelte-bi0k3c");
       add_location(img0, file, 27, 6, 952);
@@ -116,28 +116,28 @@ function create_fragment(ctx) {
       add_location(a0, file, 21, 4, 764);
       attr(div0, "class", "mx-1");
       add_location(div0, file, 20, 2, 741);
-      attr(img1, "src", "/facebook.svg");
+      attr(img1, "src", "facebook.svg");
       attr(img1, "alt", "Share to Facebook");
       attr(img1, "class", "svelte-bi0k3c");
-      add_location(img1, file, 37, 6, 1200);
+      add_location(img1, file, 37, 6, 1199);
       attr(a1, "href", a1_href_value = "https://facebook.com/sharer/sharer.php?u=" + ctx.url);
       attr(a1, "target", "_blank");
       attr(a1, "rel", "noopener noreferrer");
       attr(a1, "class", "bg-facebook svelte-bi0k3c");
-      add_location(a1, file, 31, 4, 1045);
+      add_location(a1, file, 31, 4, 1044);
       attr(div1, "class", "mx-1");
-      add_location(div1, file, 30, 2, 1022);
-      attr(img2, "src", "/email.svg");
+      add_location(div1, file, 30, 2, 1021);
+      attr(img2, "src", "email.svg");
       attr(img2, "alt", "Share to Email");
       attr(img2, "class", "svelte-bi0k3c");
-      add_location(img2, file, 47, 6, 1470);
+      add_location(img2, file, 47, 6, 1468);
       attr(a2, "href", a2_href_value = "mailto:?subject=Keycap: " + ctx.title + "&body=Keycap: " + ctx.title + "%0D%0A%0D%0A" + ctx.url);
       attr(a2, "target", "_blank");
       attr(a2, "rel", "noopener noreferrer");
       attr(a2, "class", "bg-email svelte-bi0k3c");
-      add_location(a2, file, 41, 4, 1295);
+      add_location(a2, file, 41, 4, 1293);
       attr(div2, "class", "mx-1");
-      add_location(div2, file, 40, 2, 1272);
+      add_location(div2, file, 40, 2, 1270);
       attr(div3, "class", "flex");
       add_location(div3, file, 18, 0, 680);
     },
@@ -355,7 +355,6 @@ function create_fragment$1(ctx) {
       li1,
       a1,
       t5,
-      a1_href_value,
       t6,
       h1,
       t7_value = ctx.post.metadata.title + "",
@@ -563,41 +562,41 @@ function create_fragment$1(ctx) {
     },
     h: function hydrate() {
       html_tag = new HtmlTag(ctx.jsonLD, null);
-      attr(a0, "href", "/");
+      attr(a0, "href", ".");
       add_location(a0, file$1, 210, 10, 9258);
       attr(li0, "class", "svelte-n788he");
       add_location(li0, file$1, 209, 8, 9243);
-      attr(a1, "href", a1_href_value = "/" + ctx.url);
+      attr(a1, "href", ctx.url);
       add_location(a1, file$1, 213, 10, 9318);
       attr(li1, "class", "svelte-n788he");
       add_location(li1, file$1, 212, 8, 9303);
       attr(ol, "class", "flex flex-row text-shades-dark");
       add_location(ol, file$1, 208, 6, 9191);
       attr(h1, "class", "font-bold mt-3");
-      add_location(h1, file$1, 217, 6, 9378);
+      add_location(h1, file$1, 217, 6, 9375);
       attr(h6, "class", "font-bold text-brand mt-2");
-      add_location(h6, file$1, 219, 6, 9439);
+      add_location(h6, file$1, 219, 6, 9436);
       attr(div0, "class", "max-w-xl sm:mx-auto mx-6 pb-4 xs:pb-6 border-b border-accent-light");
       add_location(div0, file$1, 205, 4, 9093);
       attr(header, "class", "svelte-n788he");
       add_location(header, file$1, 195, 2, 8827);
-      add_location(p0, file$1, 226, 8, 9685);
-      attr(img, "src", "/tony-sullivan-50x50.jpg");
+      add_location(p0, file$1, 226, 8, 9682);
+      attr(img, "src", "tony-sullivan-50x50.jpg");
       attr(img, "alt", "Tony Sullivan");
       attr(img, "class", "hidden");
-      add_location(img, file$1, 229, 12, 9743);
+      add_location(img, file$1, 229, 12, 9740);
       attr(p1, "class", "font-extrabold");
-      add_location(p1, file$1, 234, 12, 9883);
-      add_location(li2, file$1, 228, 10, 9726);
-      add_location(ul, file$1, 227, 8, 9711);
-      add_location(div1, file$1, 225, 6, 9671);
+      add_location(p1, file$1, 234, 12, 9879);
+      add_location(li2, file$1, 228, 10, 9723);
+      add_location(ul, file$1, 227, 8, 9708);
+      add_location(div1, file$1, 225, 6, 9668);
       attr(aside, "class", "text-xs xs:text-sm flex flex-row justify-between");
-      add_location(aside, file$1, 224, 4, 9600);
+      add_location(aside, file$1, 224, 4, 9597);
       attr(section, "class", "my-6 xs:my-8 text-lg xs:text-xl font-medium");
-      add_location(section, file$1, 245, 4, 10112);
+      add_location(section, file$1, 245, 4, 10108);
       html_tag_1 = new HtmlTag(raw2_value, null);
       attr(div2, "class", "content max-w-xl sm:mx-auto mx-6 mt-4 mb-12 svelte-n788he");
-      add_location(div2, file$1, 223, 2, 9518);
+      add_location(div2, file$1, 223, 2, 9515);
       attr(article, "class", "max-w-4xl");
       add_location(article, file$1, 194, 0, 8797);
     },
@@ -672,10 +671,7 @@ function create_fragment$1(ctx) {
 
       if (!current || changed.url) {
         set_data(t5, ctx.url);
-      }
-
-      if ((!current || changed.url) && a1_href_value !== (a1_href_value = "/" + ctx.url)) {
-        attr(a1, "href", a1_href_value);
+        attr(a1, "href", ctx.url);
       }
 
       if ((!current || changed.post) && t7_value !== (t7_value = ctx.post.metadata.title + "")) {

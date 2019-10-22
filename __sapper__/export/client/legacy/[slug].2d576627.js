@@ -2,14 +2,14 @@ import { _ as _inherits, a as _classCallCheck, b as _possibleConstructorReturn, 
 import { _ as _asyncToGenerator, a as _regeneratorRuntime } from './asyncToGenerator.0aaa4fbd.js';
 import './SEO.0f881c7c.js';
 import './fecha.148884dc.js';
-import { A as Article } from './Article.59677227.js';
+import { A as Article } from './Article.2c3f9774.js';
 
 function create_fragment(ctx) {
   var current;
   var article = new Article({
     props: {
       post: ctx.post,
-      url: "learn"
+      url: "reviews"
     },
     $$inline: true
   });
@@ -60,7 +60,7 @@ function _preload() {
           case 0:
             params = _ref.params;
             _context.next = 3;
-            return this.fetch("learn/".concat(params.slug, ".json"));
+            return this.fetch("reviews/".concat(params.slug, ".json"));
 
           case 3:
             res = _context.sent;

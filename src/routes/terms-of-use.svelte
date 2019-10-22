@@ -46,11 +46,11 @@
 <p>
   For information on how Keycap collects, uses and shares any personal
   information, please see the
-  <a href="/privacy-policy">Privacy Policy</a>
+  <a href="privacy-policy">Privacy Policy</a>
   displayed on the Site. If you reside outside of the European Economic Area,
   your acceptance of these Terms constitutes your consent to the processing
   activities described in the
-  <a href="/privacy-policy">Privacy Policy</a>
+  <a href="privacy-policy">Privacy Policy</a>
   under the laws of your jurisdiction.
 </p>
 
@@ -74,7 +74,7 @@
     FORUM IN MONTGOMERY, ALABAMA, USA.
   </strong>
   Please review the
-  <a href="/terms-of-use#applicable-laws">Applicable Laws and Disputes</a>
+  <a href="terms-of-use#applicable-laws">Applicable Laws and Disputes</a>
   section of these Terms for complete details.
 </p>
 
@@ -82,55 +82,55 @@
 
 <ul>
   <li>
-    <a href="/terms-of-use#modification">Modification of These Terms</a>
+    <a href="terms-of-use#modification">Modification of These Terms</a>
   </li>
   <li>
-    <a href="/terms-of-use#eligibility">Eligibility</a>
+    <a href="terms-of-use#eligibility">Eligibility</a>
   </li>
   <li>
-    <a href="/terms-of-use#personal-use">Personal Use of Site</a>
+    <a href="terms-of-use#personal-use">Personal Use of Site</a>
   </li>
   <li>
-    <a href="/terms-of-use#user-submissions">User Submissions</a>
+    <a href="terms-of-use#user-submissions">User Submissions</a>
   </li>
   <li>
-    <a href="/terms-of-use#liability-disclaimer">
+    <a href="terms-of-use#liability-disclaimer">
       Liability Disclaimer for Editorial Content
     </a>
   </li>
   <li>
-    <a href="/terms-of-use#disclaimer">Disclaimer</a>
+    <a href="terms-of-use#disclaimer">Disclaimer</a>
   </li>
   <li>
-    <a href="/terms-of-use#limitation-liability">Limitation of Liability</a>
+    <a href="terms-of-use#limitation-liability">Limitation of Liability</a>
   </li>
   <li>
-    <a href="/terms-of-use#indemnification">Indemnification</a>
+    <a href="terms-of-use#indemnification">Indemnification</a>
   </li>
   <li>
-    <a href="/terms-of-use#applicable-laws">Applicable Laws and Disputes</a>
+    <a href="terms-of-use#applicable-laws">Applicable Laws and Disputes</a>
   </li>
   <li>
-    <a href="/terms-of-use#intellectual-property">Intellectual Property</a>
+    <a href="terms-of-use#intellectual-property">Intellectual Property</a>
   </li>
   <li>
-    <a href="/terms-of-use#copyright-infringement">
+    <a href="terms-of-use#copyright-infringement">
       Notices and Procedures for Making Claims of Copyright Infringement
     </a>
   </li>
   <li>
-    <a href="/terms-of-use#account-registration">
+    <a href="terms-of-use#account-registration">
       Account Registration and Security
     </a>
   </li>
   <li>
-    <a href="/terms-of-use#code-of-conduct">Code of Conduct</a>
+    <a href="terms-of-use#code-of-conduct">Code of Conduct</a>
   </li>
   <li>
-    <a href="/terms-of-use#third-party-sites">Third Party Sites</a>
+    <a href="terms-of-use#third-party-sites">Third Party Sites</a>
   </li>
   <li>
-    <a href="/terms-of-use#contact-us">Contact Us</a>
+    <a href="terms-of-use#contact-us">Contact Us</a>
   </li>
 </ul>
 

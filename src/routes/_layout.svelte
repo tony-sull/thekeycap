@@ -76,7 +76,7 @@
     earn affiliate commission.
     <a
       alt="Learn more about our Affiliate Disclaimer"
-      href="/affiliate-disclaimer"
+      href="affiliate-disclaimer"
       class="font-bold underline"
       aria-label="Learn more about our Affiliate Disclaimer"
     >

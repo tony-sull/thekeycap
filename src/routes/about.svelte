@@ -61,7 +61,7 @@
 
 <p>
   Check out our
-  <a class="underline" href="/privacy-policy">Privacy Policy</a>
+  <a class="underline" href="privacy-policy">Privacy Policy</a>
   for more details, but the
   <em>tl;dr;</em>
   is that we only collect a very limited set of information. We may collect

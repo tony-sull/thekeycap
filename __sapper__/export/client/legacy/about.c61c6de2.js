@@ -192,18 +192,18 @@ function create_fragment(ctx) {
       attr(p5, "class", "svelte-klzbod");
       add_location(p5, file, 48, 0, 1726);
       attr(a, "class", "underline");
-      attr(a, "href", "/privacy-policy");
+      attr(a, "href", "privacy-policy");
       add_location(a, file, 63, 2, 2361);
-      add_location(em1, file, 65, 2, 2454);
-      add_location(em2, file, 68, 2, 2592);
-      add_location(em3, file, 71, 2, 2717);
+      add_location(em1, file, 65, 2, 2453);
+      add_location(em2, file, 68, 2, 2591);
+      add_location(em3, file, 71, 2, 2716);
       attr(p6, "class", "svelte-klzbod");
       add_location(p6, file, 61, 0, 2339);
-      add_location(strong2, file, 78, 2, 2838);
+      add_location(strong2, file, 78, 2, 2837);
       attr(p7, "class", "svelte-klzbod");
-      add_location(p7, file, 77, 0, 2832);
+      add_location(p7, file, 77, 0, 2831);
       attr(p8, "class", "svelte-klzbod");
-      add_location(p8, file, 81, 0, 2906);
+      add_location(p8, file, 81, 0, 2905);
     },
     m: function mount(target, anchor) {
       mount_component(seo, target, anchor);

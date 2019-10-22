@@ -71,74 +71,72 @@
 
 <ul>
   <li>
-    <a href="/privacy-policy#modification">Modification of These Terms</a>
+    <a href="privacy-policy#modification">Modification of These Terms</a>
   </li>
   <li>
-    <a href="/privacy-policy#personal-info-we-collect">
+    <a href="privacy-policy#personal-info-we-collect">
       Personal Information We Collect
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#collection-of-personal-info">
+    <a href="privacy-policy#collection-of-personal-info">
       Collection of Personal Information
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#use-of-personal-info">
+    <a href="privacy-policy#use-of-personal-info">
       Use of Personal Information
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#disclosure-of-personal-info">
+    <a href="privacy-policy#disclosure-of-personal-info">
       Disclosure of Personal Information
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#other-info">Other Information</a>
+    <a href="privacy-policy#other-info">Other Information</a>
   </li>
   <li>
-    <a href="/privacy-policy#collection-of-other-info">
+    <a href="privacy-policy#collection-of-other-info">
       Collection of Other Information
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#uses-of-other-info">
+    <a href="privacy-policy#uses-of-other-info">
       Users and Disclosures of Other Information
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#sensitive-info">Sensitive Information</a>
+    <a href="privacy-policy#sensitive-info">Sensitive Information</a>
   </li>
   <li>
-    <a href="/privacy-policy#security">Information Security</a>
+    <a href="privacy-policy#security">Information Security</a>
   </li>
   <li>
-    <a href="/privacy-policy#opt-out">Opt-Out Instructions</a>
+    <a href="privacy-policy#opt-out">Opt-Out Instructions</a>
   </li>
   <li>
-    <a href="/privacy-policy#edit-delete">
+    <a href="privacy-policy#edit-delete">
       How You Can Access, Edit, or Delete Your Personal Information
     </a>
   </li>
   <li>
-    <a href="/privacy-policy#retention-period">Retention Period</a>
+    <a href="privacy-policy#retention-period">Retention Period</a>
   </li>
   <li>
-    <a href="/privacy-policy#third-party-services">Third Party Services</a>
+    <a href="privacy-policy#third-party-services">Third Party Services</a>
   </li>
   <li>
-    <a href="/privacy-policy#children">Use of Services by Children</a>
+    <a href="privacy-policy#children">Use of Services by Children</a>
   </li>
   <li>
-    <a href="/privacy-policy#california">Your California Privacy Rights</a>
+    <a href="privacy-policy#california">Your California Privacy Rights</a>
   </li>
   <li>
-    <a href="/privacy-policy#international-transfers">
-      International Transfers
-    </a>
+    <a href="privacy-policy#international-transfers">International Transfers</a>
   </li>
   <li>
-    <a href="/privacy-policy#eaa-info">
+    <a href="privacy-policy#eaa-info">
       Additional Information for Individuals in the EAA
     </a>
   </li>
@@ -477,7 +475,7 @@
   personal information for purposes of transmitting it to another company (to
   the extent this rights to data portability is provided to you by applicable
   law), you may contact us by completing
-  <a href="/data-requests">this form</a>
+  <a href="data-requests">this form</a>
   .
 </p>
 

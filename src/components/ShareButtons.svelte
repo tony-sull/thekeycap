@@ -23,7 +23,7 @@
       rel="noopener noreferrer"
       class="bg-twitter"
     >
-      <img src="/twitter.svg" alt="Share to Twitter" />
+      <img src="twitter.svg" alt="Share to Twitter" />
     </a>
   </div>
   <div class="mx-1">
@@ -33,7 +33,7 @@
       rel="noopener noreferrer"
       class="bg-facebook"
     >
-      <img src="/facebook.svg" alt="Share to Facebook" />
+      <img src="facebook.svg" alt="Share to Facebook" />
     </a>
   </div>
   <div class="mx-1">
@@ -43,7 +43,7 @@
       rel="noopener noreferrer"
       class="bg-email"
     >
-      <img src="/email.svg" alt="Share to Email" />
+      <img src="email.svg" alt="Share to Email" />
     </a>
   </div>
 </div>

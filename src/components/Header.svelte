@@ -115,7 +115,7 @@
     class="content max-w-2x flex items-center justify-between xs:justify-start"
   >
     <a href="https://thekeycap.com" aria-label="Keycap" title="Keycap">
-      <img class="h-6 my-1" src="/logo-horizontal.svg" alt="Keycap" />
+      <img class="h-6 my-1" src="logo-horizontal.svg" alt="Keycap" />
     </a>
 
     <input
@@ -135,16 +135,16 @@
         xs:ml-2"
       >
         <li>
-          <a href="/" alt="Home" rel="prefetch">Home</a>
+          <a href="." alt="Home" rel="prefetch">Home</a>
         </li>
         <li>
-          <a href="/reviews" alt="Reviews" rel="prefetch">Reviews</a>
+          <a href="reviews" alt="Reviews" rel="prefetch">Reviews</a>
         </li>
         <li>
-          <a href="/learn" alt="Learn" rel="prefetch">Learn</a>
+          <a href="learn" alt="Learn" rel="prefetch">Learn</a>
         </li>
         <li>
-          <a href="/about" alt="About" rel="prefetch">About</a>
+          <a href="about" alt="About" rel="prefetch">About</a>
         </li>
       </ul>
     </nav>

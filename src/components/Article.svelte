@@ -162,10 +162,10 @@
     >
       <ol class="flex flex-row text-shades-dark">
         <li>
-          <a href="/">Keycap</a>
+          <a href=".">Keycap</a>
         </li>
         <li>
-          <a href="/{url}">{url}</a>
+          <a href={url}>{url}</a>
         </li>
       </ol>
 
@@ -182,7 +182,7 @@
         <ul>
           <li>
             <img
-              src="/tony-sullivan-50x50.jpg"
+              src="tony-sullivan-50x50.jpg"
               alt="Tony Sullivan"
               class="hidden"
             />

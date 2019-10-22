@@ -37,27 +37,27 @@
   <div class="content max-w-4xl mx-auto p-2 xs:p-6 md:p-8">
     <ul class="font-semibold text-shades-light w-full">
       <li>
-        <a href="/about" alt="About">About Keycap</a>
+        <a href="about" alt="About">About Keycap</a>
       </li>
       <li>
-        <a href="/contact-us" alt="Contact Us">Contact Us</a>
+        <a href="contact-us" alt="Contact Us">Contact Us</a>
       </li>
     </ul>
 
     <ul class="text-shades-light font-light w-full">
       <li>
-        <a href="/privacy-policy" alt="Privacy Policy">Privacy Policy</a>
+        <a href="privacy-policy" alt="Privacy Policy">Privacy Policy</a>
       </li>
       <li>
-        <a href="/terms-of-use" alt="Terms of Use">Terms of Use</a>
+        <a href="terms-of-use" alt="Terms of Use">Terms of Use</a>
       </li>
       <li>
-        <a href="/partners" alt="Partnerships and Advertising">
+        <a href="partners" alt="Partnerships and Advertising">
           Partnerships and Advertising
         </a>
       </li>
       <li>
-        <a href="/rss.xml" title="RSS Feed" target="_blank">RSS Feed</a>
+        <a href="rss.xml" title="RSS Feed" target="_blank">RSS Feed</a>
       </li>
     </ul>
 
@@ -73,7 +73,7 @@
           >
             <img
               class="logo"
-              src="/facebook-circle.svg"
+              src="facebook-circle.svg"
               alt="Keycap's Facebook"
             />
           </a>
@@ -84,18 +84,14 @@
             href="https://www.twitter.com/thekeycap"
             title="Keycap's Twitter"
           >
-            <img
-              class="logo"
-              src="/twitter-circle.svg"
-              alt="Keycap's Twitter"
-            />
+            <img class="logo" src="twitter-circle.svg" alt="Keycap's Twitter" />
           </a>
         </li>
       </ul>
 
       <div class="font-thin">
         You can
-        <a class="underline inline" href="/contact-us">send us a note</a>
+        <a class="underline inline" href="contact-us">send us a note</a>
         too.
       </div>
     </div>
