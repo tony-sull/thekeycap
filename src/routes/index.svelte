@@ -23,6 +23,34 @@
   import ArticleList from '../components/ArticleList.svelte'
 
   export let categories
+
+  const websiteLD = `
+    <script type="application/ld+json">
+      {
+        "@context": "http://www.schema.org",
+        "@type": "WebSite",
+        "name": "Keycap",
+        "alternateName": "The Keycap",
+        "url": "https://thekeycap.com"
+      }
+    <\/script>
+  `
+
+  const organizationLD = `
+    <script type="application/ld+json">
+      {
+        "@context": "http://www.schema.org",
+        "@type": "Organization",
+        "name": "Keycap",
+        "url": "https://thekeycap.com",
+        "sameAs": [
+          "https://twitter.com/thekeycap",
+          "https://facebook.com/thekeycap"
+        ],
+        "logo": "https://thekeycap.com/social-share-630x420.png"
+      }
+    <\/script>
+  `
 </script>
 
 <style>
@@ -32,14 +60,8 @@
 </style>
 
 <svelte:head>
-  <script type="application/ld+json">
-    {
-    }
-  </script>
-  <script type="application/ld+json">
-    {
-    }
-  </script>
+  {@html websiteLD}
+  {@html organizationLD}
 </svelte:head>
 
 <SEO />
