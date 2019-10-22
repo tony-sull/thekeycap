@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://thekeycap.com/sitemap.xml
