@@ -137,9 +137,9 @@
         <li>
           <a href="." alt="Home" rel="prefetch">Home</a>
         </li>
-        <!--<li>
+        <li>
           <a href="reviews" alt="Reviews" rel="prefetch">Reviews</a>
-        </li>-->
+        </li>
         <li>
           <a href="learn" alt="Learn" rel="prefetch">Learn</a>
         </li>

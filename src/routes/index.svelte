@@ -3,12 +3,12 @@
     return this.fetch('/recent.json')
       .then(r => r.json())
       .then(({ learn, reviews }) => [
-        /* {
+        {
           posts: reviews,
           url: 'reviews',
-        },*/
+        },
         {
-          /* title: 'Recent Articles', */
+          title: 'Recent Articles',
           posts: learn,
           url: 'learn',
         },

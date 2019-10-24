@@ -36,7 +36,7 @@
 </style>
 
 {#if title}
-  <header class="mb-4 py-2 px-2 md:px-0 border-t-2 border-accent-light">
+  <header class="mb-4 py-2 px-2 md:px-0">
     <h2>{title}</h2>
   </header>
 {/if}
