@@ -10,7 +10,7 @@ heroCaption: Multicolored Keyboard Front of MacBook Pro
 heroCredit: Photo by [Paul Esch-Laurent](https://unsplash.com/@pinjasaur)
 ---
 
-Before diving into which [switches you prefer](https://thekeycap.com/learn/comparing-keyboard-switches), wired vs. wireless, or custom keycaps it can be helpful to nail down the layout size that best fits your needs.
+Before diving into which [switches you prefer](/learn/comparing-keyboard-switches), wired vs. wireless, or custom keycaps it can be helpful to nail down the layout size that best fits your needs.
 
 ## 60%, 65%, 75%, 80%, 100% - Why are there so many sizes?
 
@@ -110,6 +110,6 @@ My main concerns regarding distance to your mouse also may not matter to you if 
 
 ## Custom Layouts and Split Designs
 
-There are some very interesting and well built keyboards out there that break the mold. Some, like the [Kinesis Advantage2](https://www.amazon.com/Kinesis-Advantage2-Ergonomic-Keyboard-KB600/dp/B01KR1C5PY) double down on ergonomics and completely redsign the concept of what a keyboard should be. Others, like the [AULA 30 One Handed Gaming Keyboard](https://www.amazon.com/AULA-Progammable-Handed-Merchanical-Keyboard/dp/B0728P6DR5) are built from the ground up for gamers.
+There are some very interesting and well built keyboards out there that break the mold. Some, like the [Kinesis Advantage2](/out/kinesis-advantage2){target=_blank} double down on ergonomics and completely redsign the concept of what a keyboard should be. Others, like the [AULA 30 One Handed Gaming Keyboard](/out/aula-30-keypad){target=_blank} are built from the ground up for gamers.
 
 These can be excellent solutions if they fit your needs (and budget), but don't expect to plug it in and keep up your 110 words per minute from day one. There is a learning curve to these, and can take a month or two to really take advantage of the custom layouts.

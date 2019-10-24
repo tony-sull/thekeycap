@@ -12,7 +12,7 @@ heroCredit: Photo by [Shrimay Dash](https://unsplash.com/@shrimay)
 
 Keyboard switches are probably one of the most confusing decisions mechanical keyboard newcomers have to make. Switches are often by color, but there are as many as nine different colors. What do they all mean? When it comes to brands, Cherry seems to be the go-to but why are they better than Gateron, Kailh, or any of the other brands out there?
 
-Before we dive into all the details, let get a few basics out of the way. Still not sure what size keyboard to get? [Our keyboard layout comparison](https://thekeycap.com/learn/comparing-keyboard-layout-sizes) has you covered.
+Before we dive into all the details, let get a few basics out of the way. Still not sure what size keyboard to get? [Our keyboard layout comparison](/learn/comparing-keyboard-layout-sizes) has you covered.
 
 ## How Do Mechanical Keyboard Switches Work?
 
@@ -38,7 +38,7 @@ The feel of the keys is also very different. Where membrane-based keys can often
 
 ## A Little History of Mechanical Keyboards
 
-Mechanical keyboards have been around for decades, with [Cherry](https://cherryamericas.com) being the most well known manufacturer of switches. They began making keyboards in 1973, and claim to be the oldest keyboard manufacturer that is still in business.
+Mechanical keyboards have been around for decades, with [Cherry](/out/cherryamerica){target=_blank} being the most well known manufacturer of switches. They began making keyboards in 1973, and claim to be the oldest keyboard manufacturer that is still in business.
 
 Cherry MX switches are the most broadly known switches today, and are a safe choice if you're just getting into mechanical keyboards. They were originally patented in 1983, and once the patent expired in 2003 it really opened the flood gates for other manufacturers. Razer, Gateron, Kailh, and many others now offer great switches that were originally based on the Cherry MX patent.
 
@@ -72,7 +72,7 @@ Three distinct types of switch may not be enough to fit everyone's prefences. Wh
 
 Don't worry, Cherry has you covered! Oh yeah, and the other manufacturers generally offer a similar spread of switches for your typing pleasure.
 
-Check out the comparison chart below for the full breakdown. Each category (linear, tactile, and clicky) have been expanded with choices of firmness. If you really want to have a mattress shopping experience and nail down your favorite, you can order a sampler pack for [Cherry MX](https://www.amazon.com/Mechanical-Gaming-Keyboard-Keyswitches-Tester/dp/B07TV7P3GP) or [Gateron and Kailh](https://www.amazon.com/Glorious-Switch-Tester-Mechanical-Keyboards-PC/dp/B078FMPZ8R).
+Check out the comparison chart below for the full breakdown. Each category (linear, tactile, and clicky) have been expanded with choices of firmness. If you really want to have a mattress shopping experience and nail down your favorite, you can order a sampler pack for [Cherry MX](/out/cherry-mx-tester){target=_blank} or [Gateron and Kailh](/out/gateron-kaihl-tester){target=_blank}.
 
 ![Cherry MX Color Chart](https://i.imgur.com/H7bLPaf.png 'Cherry MX Color Chart')
 
