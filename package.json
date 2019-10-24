@@ -17,7 +17,7 @@
     "build": "run-s build:tailwind build:app",
     "export:app": "sapper export --legacy",
     "export": "run-s build:tailwind export:app",
-    "postexport": "sitemap-static --pretty --prefix=https://thekeycap/ __sapper__/export > __sapper__/export/sitemap.xml",
+    "postexport": "sitemap-static --pretty --prefix=https://thekeycap.com/ __sapper__/export > __sapper__/export/sitemap.xml",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
