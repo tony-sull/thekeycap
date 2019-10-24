@@ -15,32 +15,32 @@ The gaming world has exploded in recent years with eSports competitions finally 
 | Our Pick |  |
 | --- | --- |
 | ![Ducky One 2 Mini](/ducky-one-2-mini.jpg) |  |
-|  | [Ducky One 2 Mini](https://www.amazon.com/Akko-Ducky-One-Mechanical-Keyboard/dp/B07MCNVN8C/ref=sr_1_3?keywords=ducky+one+mx+cherry+red&qid=1569881061&sr=8-3) |
+|  | [Ducky One 2 Mini](/out/ducky-one-2) |
 |  | Our recommended overall keyboard |
 |  | The 60% layout is a great middle-of-the-road size, is customizable, and works just as well for office work between games. |
-|  | [Buy on Amazon](https://www.amazon.com/Akko-Ducky-One-Mechanical-Keyboard/dp/B07MCNVN8C/ref=sr_1_3?keywords=ducky+one+mx+cherry+red&qid=1569881061&sr=8-3) |
+|  | [Buy on Amazon](/out/ducky-one-2) |
 
-The [Ducky One 2 Mini](https://www.amazon.com/Akko-Ducky-One-Mechanical-Keyboard/dp/B07MCNVN8C/ref=sr_1_3?keywords=ducky+one+mx+cherry+red&qid=1569881061&sr=8-3) is an excellent place to start if you're looking for your first mechanical keyboard and are willing to pay for some high-end features. Though not nearly as expensive as many custom built mechanical keyboards, it comes with many top-of-the-line features like Cherry MX switches and LED lighting.
+The [Ducky One 2 Mini](/out/ducky-one-2) is an excellent place to start if you're looking for your first mechanical keyboard and are willing to pay for some high-end features. Though not nearly as expensive as many custom built mechanical keyboards, it comes with many top-of-the-line features like Cherry MX switches and LED lighting.
 
 | Budget |  |
 | --- | --- |
 | ![Qisan Mini](/qisan-mini.jpg) |  |
-|  | [Qisan Mini](https://www.amazon.com/Qisan-Mechanical-Keyboard-68-Keys-Magicforce/dp/B01E8KO2B0/ref=sr_1_1?keywords=varmilo+keyboard&qid=1569881198&sr=8-1) |
+|  | [Qisan Mini](/out/qisan-mini) |
 |  | Our recommended budget keyboard |
 |  | Easily the best mechanical keyboard if you're on a tight budget and don't extra features like LED lighting. |
-|  | [Buy on Amazon](https://www.amazon.com/Qisan-Mechanical-Keyboard-68-Keys-Magicforce/dp/B01E8KO2B0/ref=sr_1_1?keywords=varmilo+keyboard&qid=1569881198&sr=8-1) |
+|  | [Buy on Amazon](/out/qisan-mini) |
 
-Looking for your first gaming keyboard but on a tight budget? Look no further than the [Qisan Mini](https://www.amazon.com/Qisan-Mechanical-Keyboard-68-Keys-Magicforce/dp/B01E8KO2B0/ref=sr_1_1?keywords=varmilo+keyboard&qid=1569881198&sr=8-1). Qisan did an excellent job cutting extra features like LED lights and brand name key switches. Its definitely a no-frills keyboard, but if you're looking to dip your toes before diving deep into the world of custom built mechanical keyboards, you won't find a better keyboard for the money.
+Looking for your first gaming keyboard but on a tight budget? Look no further than the [Qisan Mini](/out/qisan-mini). Qisan did an excellent job cutting extra features like LED lights and brand name key switches. Its definitely a no-frills keyboard, but if you're looking to dip your toes before diving deep into the world of custom built mechanical keyboards, you won't find a better keyboard for the money.
 
 | Wireless |  |
 | --- | --- |
 | ![Anne Pro 2](/anne-pro-2.jpg) |  |
-|  | [Anne Pro 2](https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07PSH8V4Y?th=1) |
+|  | [Anne Pro 2](/out/anne-pro-2) |
 |  | Our recommended wireless keyboard |
 |  | A go-to gaming keyboard if you need wireless connectivity without breaking the bank. |
-|  | [Buy on Amazon](https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07PSH8V4Y?th=1) |
+|  | [Buy on Amazon](/out/anne-pro-2) |
 
-If wireless connectivity is on your must-have list, stop reading now and order the [Anne Pro 2](https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07PSH8V4Y?th=1). This one is very similar to the Ducky and will run around the same price, but where the Ducky is wired-only the Anne Pro 2 can be used wirelessly. Wireless keyboards come with the usual caveats of having to keep them charged, but avoiding extra wires running across your desk may be worth the trade-offs.
+If wireless connectivity is on your must-have list, stop reading now and order the [Anne Pro 2](/out/anne-pro-2). This one is very similar to the Ducky and will run around the same price, but where the Ducky is wired-only the Anne Pro 2 can be used wirelessly. Wireless keyboards come with the usual caveats of having to keep them charged, but avoiding extra wires running across your desk may be worth the trade-offs.
 
 ## The Research
 
@@ -64,7 +64,7 @@ This is kind of a trick question, "good" is very subjective when it comes to mec
 
 ### Do You Need Wireless?
 
-There are good wireless options including the [Anne Pro 2](https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07PSH8V4Y?th=1), if that is really important to you. Pay close attention to latency issues with wireless keyboards, many people looking for a general purpose keyboard won't notice a difference but it because abundantly clear once you start gaming.
+There are good wireless options including the [Anne Pro 2](/out/anne-pro-2), if that is really important to you. Pay close attention to latency issues with wireless keyboards, many people looking for a general purpose keyboard won't notice a difference but it because abundantly clear once you start gaming.
 
 ### Does Size Really Matter?
 
@@ -81,10 +81,10 @@ Why Cherry switches rather than Razer, Kailh, or any of the other brands out the
 | Our Pick |  |
 | --- | --- |
 | ![Ducky One 2 Mini](/ducky-one-2-mini.jpg) |  |
-|  | [Ducky One 2 Mini](https://www.amazon.com/Akko-Ducky-One-Mechanical-Keyboard/dp/B07MCNVN8C/ref=sr_1_3?keywords=ducky+one+mx+cherry+red&qid=1569881061&sr=8-3) |
+|  | [Ducky One 2 Mini](/out/ducky-one-2) |
 |  | Our recommended overall keyboard |
 |  | The 60% layout is a great middle-of-the-road size, is customizable, and works just as well for office work between games. |
-|  | [Buy on Amazon](https://www.amazon.com/Akko-Ducky-One-Mechanical-Keyboard/dp/B07MCNVN8C/ref=sr_1_3?keywords=ducky+one+mx+cherry+red&qid=1569881061&sr=8-3) |
+|  | [Buy on Amazon](/out/ducky-one-2) |
 
 I'm always looking for the bang-for-your-buck factor, and when it comes to gaming that means the Ducky with MX Reds. Ducky keyboards are extremely popular, and short of building your own custom keyboard it's hard to beat the price. I prefer the 60% layout for gaming because it keeps your mouse within close reach, you can add a separate keypad and customize the key mappings.
 
@@ -97,24 +97,24 @@ This is a great overall keyboard, even if the name is a bit confusing and long-w
 | Our Pick |  |
 | --- | --- |
 | ![Kinesis Freestyle Edge](/kinesis-freestyle-edge.jpg) |  |
-|  | [Kinesis Freestyle](https://www.amazon.com/KINESIS-Gaming-Freestyle-Mechanical-Keyboard/dp/B07STXYG5T/ref=sr_1_1?keywords=kinesis%2Bfreestyle&qid=1569943805&sr=8-1&th=1) |
+|  | [Kinesis Freestyle](/out/kinesis-freestyle) |
 |  | Our recommended high-end keyboard |
 |  | The split design is ideal for long gaming sessions. Throw in the optional tenting kit and say goodbye to hand cramps for good! |
-|  | [Buy on Amazon](https://www.amazon.com/KINESIS-Gaming-Freestyle-Mechanical-Keyboard/dp/B07STXYG5T/ref=sr_1_1?keywords=kinesis%2Bfreestyle&qid=1569943805&sr=8-1&th=1) |
+|  | [Buy on Amazon](/out/kinesis-freestyle) |
 
 If you are using your keyboard for hours at a time, a split design can really help out with ergonomics. Repetitive stress injuries (RSIs) are no joke, ignore your health and you can easily end up with hand, wrist, and even shoulder pains that won't go seem to away.
 
 The split design allows you to put each half of the keyboard exactly where your hands are most comfortable. Often that means separating your hands further than possible on a normal keyboard, and when gaming that can let you conveniently place a mouse or keypad in the middle.
 
-Kinesis even includes wrist rests with they keyboard, you often have to purchase these separately. It is unfortunate that the [Kinesis Tent Kit](https://www.amazon.com/KINESIS-Lift-Tenting-Freestyle-Edge/dp/B077J7ZBM) isn't included. Tenting is when you tilt the middle of the split keyboard to provide a more natural angle for your wrists and hands. I wish it was included in the box, but do yourself a favor and buy the tent kit when getting the keyboard. Your wrists will thank you!
+Kinesis even includes wrist rests with they keyboard, you often have to purchase these separately. It is unfortunate that the [Kinesis Tent Kit](/out/kinesis-tent-kit) isn't included. Tenting is when you tilt the middle of the split keyboard to provide a more natural angle for your wrists and hands. I wish it was included in the box, but do yourself a favor and buy the tent kit when getting the keyboard. Your wrists will thank you!
 
 | Runner Up |  |
 | --- | --- |
 | ![Leopold FC750R PD](/leopold-fc750r-pd.jpg) |  |
-|  | [Leopold FC750R PD](https://www.amazon.com/Leopold-FC750R-High-end-Mechanical-Keyboard/dp/B079JQP9XX/ref=sr_1_1?keywords=leopold+cherry+red&qid=1569880893&sr=8-1) |
+|  | [Leopold FC750R PD](/out/leopold-fc750r-pd) |
 |  | Another great high-end option |
 |  | This is a great option if you want no-compromise features but aren't a fan of the split design. |
-|  | [Buy on Amazon](https://www.amazon.com/Leopold-FC750R-High-end-Mechanical-Keyboard/dp/B079JQP9XX/ref=sr_1_1?keywords=leopold+cherry+red&qid=1569880893&sr=8-1) |
+|  | [Buy on Amazon](/out/leopold-fc750r-pd) |
 
 The Leopold FC750R is worth an honorable mention here. If you don't like, or don't have the desk space for, the split keyboard design I'd definitely pick the Leopold. This is a tenkeyless sized keyboard, meaning you get a full-sized keyboard minus the numberpad. The dedicated function and arrow keys are a plus, even if not a deciding factor compared to a 60% keyboard like the Ducky One 2 Mini.
 
@@ -127,10 +127,10 @@ Note that this keyboard doesn't feature LED lights like many of the other keyboa
 | Our Pick |  |
 | --- | --- |
 | ![Qisan Mini](/qisan-mini.jpg) |  |
-|  | [Qisan Mini](https://www.amazon.com/Qisan-Mechanical-Keyboard-68-Keys-Magicforce/dp/B01E8KO2B0/ref=sr_1_1?keywords=varmilo+keyboard&qid=1569881198&sr=8-1) |
+|  | [Qisan Mini](/out/qisan-mini) |
 |  | Our recommended budget keyboard |
 |  | Easily the best mechanical keyboard if you're on a tight budget and don't extra features like LED lighting. |
-|  | [Buy on Amazon](https://www.amazon.com/Qisan-Mechanical-Keyboard-68-Keys-Magicforce/dp/B01E8KO2B0/ref=sr_1_1?keywords=varmilo+keyboard&qid=1569881198&sr=8-1) |
+|  | [Buy on Amazon](/out/qisan-mini) |
 
 If you're in the market for a mechanical keyboard but aren't willing to drop \$100+, the Qisan Mini is an excellent choice. Like any budget option there are tradeoffs, but Qisan really did an excellent job of balancing cost vs. features and quality.
 
@@ -143,10 +143,10 @@ This is a no-frills keyboard, so don't expect any extra features like wireless s
 | Our Pick |  |
 | --- | --- |
 | ![Anne Pro 2](/anne-pro-2.jpg) |  |
-|  | [Anne Pro 2](https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07PSH8V4Y?th=1) |
+|  | [Anne Pro 2](/out/anne-pro-2) |
 |  | Our recommended wireless keyboard |
 |  | A go-to gaming keyboard if you need wireless connectivity without breaking the bank. |
-|  | [Buy on Amazon](https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07PSH8V4Y?th=1) |
+|  | [Buy on Amazon](/out/anne-pro-2) |
 
 I was very torn between the Ducky One 2 Mini and the Anne Pro 2 when it comes to my overall pick. Many mechanical keyboard enthusiasts swear by the Anne Pro 2, and it's a no-brainer if wireless conectivity is on your list of must-haves.
 
@@ -159,10 +159,10 @@ I'm a big fan of the keycaps that are included on this keyboard. It's so easy to
 | Our Pick |  |
 | --- | --- |
 | ![HUO JI Z88](/huo-ji-z88.jpg) |  |
-|  | [HUO JI Z88](https://www.amazon.com/HUO-JI-Mechanical-Resistant-Anti-Ghosting/dp/B07CN5YKW6) |
+|  | [HUO JI Z88](/out/hou-ji-z88) |
 |  | Our recommended entry-level keyboard |
 |  | A great first gaming keyboard with some higher-end features like LED lights. Cheap enough to start out and learn what like in a mechanical keyboard. |
-|  | [Buy on Amazon](https://www.amazon.com/HUO-JI-Mechanical-Resistant-Anti-Ghosting/dp/B07CN5YKW6) |
+|  | [Buy on Amazon](/out/hou-ji-z88) |
 
 So you're looking for your first mechanical keyboard? If you've made it this far you see how many options there are, and how much it comes down to personal preference.
 
