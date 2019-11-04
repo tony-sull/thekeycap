@@ -1,5 +1,4 @@
 export default function googleAnalytics(gaID) {
-    console.log('GA_ID', gaID)
     window.dataLayer = window.dataLayer || []
     function gtag() {
         dataLayer.push(arguments)
