@@ -31,6 +31,7 @@ export default {
       replace({
         'process.browser': true,
         'process.env.NODE_ENV': JSON.stringify(mode),
+        'process.env.GA_ID': JSON.stringify(process.env.GA_ID || ''),
       }),
       svelte({
         dev,
